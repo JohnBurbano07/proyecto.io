@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/proyecto.io/static/css/main.a0a4eea7.chunk.css",
+    "main.js": "/proyecto.io/static/js/main.db491222.chunk.js",
+    "main.js.map": "/proyecto.io/static/js/main.db491222.chunk.js.map",
+    "runtime-main.js": "/proyecto.io/static/js/runtime-main.8ce2dd26.js",
+    "runtime-main.js.map": "/proyecto.io/static/js/runtime-main.8ce2dd26.js.map",
+    "static/js/2.109f7244.chunk.js": "/proyecto.io/static/js/2.109f7244.chunk.js",
+    "static/js/2.109f7244.chunk.js.map": "/proyecto.io/static/js/2.109f7244.chunk.js.map",
+    "static/js/3.097a5867.chunk.js": "/proyecto.io/static/js/3.097a5867.chunk.js",
+    "static/js/3.097a5867.chunk.js.map": "/proyecto.io/static/js/3.097a5867.chunk.js.map",
+    "index.html": "/proyecto.io/index.html",
+    "static/css/main.a0a4eea7.chunk.css.map": "/proyecto.io/static/css/main.a0a4eea7.chunk.css.map",
+    "static/js/2.109f7244.chunk.js.LICENSE.txt": "/proyecto.io/static/js/2.109f7244.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce2dd26.js",
+    "static/js/2.109f7244.chunk.js",
+    "static/css/main.a0a4eea7.chunk.css",
+    "static/js/main.db491222.chunk.js"
+  ]
+}
